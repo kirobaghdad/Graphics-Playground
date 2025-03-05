@@ -1,8 +1,0 @@
-G:/CUFE/Third Year/Computer_Graphics/playground/Line_Rasterization/build/CMakeFiles/myprogram.dir
-G:/CUFE/Third Year/Computer_Graphics/playground/Line_Rasterization/build/CMakeFiles/edit_cache.dir
-G:/CUFE/Third Year/Computer_Graphics/playground/Line_Rasterization/build/CMakeFiles/rebuild_cache.dir
-G:/CUFE/Third Year/Computer_Graphics/playground/Line_Rasterization/build/vendor/glfw/CMakeFiles/edit_cache.dir
-G:/CUFE/Third Year/Computer_Graphics/playground/Line_Rasterization/build/vendor/glfw/CMakeFiles/rebuild_cache.dir
-G:/CUFE/Third Year/Computer_Graphics/playground/Line_Rasterization/build/vendor/glfw/src/CMakeFiles/glfw.dir
-G:/CUFE/Third Year/Computer_Graphics/playground/Line_Rasterization/build/vendor/glfw/src/CMakeFiles/edit_cache.dir
-G:/CUFE/Third Year/Computer_Graphics/playground/Line_Rasterization/build/vendor/glfw/src/CMakeFiles/rebuild_cache.dir
