@@ -22,7 +22,6 @@ include_directories(
     vendor/glad/include
     vendor/glm
     include
-    # lib
 )
 
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${PROJECT_SOURCE_DIR}/bin)
@@ -32,7 +31,7 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY_RELEASE ${PROJECT_SOURCE_DIR}/bin)
 add_executable(myprogram
     main.cpp
     vendor/glad/src/gl.c
-    src/line_rasterization.cpp
+    src/triangle_rasterization.cpp
 )    
 
 target_link_libraries(myprogram PRIVATE glfw)
